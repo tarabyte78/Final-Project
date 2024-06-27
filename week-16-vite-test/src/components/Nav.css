@@ -1,0 +1,13 @@
+
+.nav-link {
+    color: black;
+    font-weight: 500;
+  }
+  
+.navbar-brand {
+    color: cornflowerblue;
+    font-weight: 600;
+}
+:hover.nav-link{
+    color: cornflowerblue;
+}
